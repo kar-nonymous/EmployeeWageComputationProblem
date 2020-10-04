@@ -1,0 +1,13 @@
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.exe
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.deps.json
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.dll
+C:\Users\Kartikeya\source\repos\UC14\UC14\bin\Debug\netcoreapp3.1\UC14.pdb
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.csprojAssemblyReference.cache
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.dll
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.pdb
+C:\Users\Kartikeya\source\repos\UC14\UC14\obj\Debug\netcoreapp3.1\UC14.genruntimeconfig.cache
