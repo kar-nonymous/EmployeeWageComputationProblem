@@ -1,0 +1,12 @@
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.exe
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.deps.json
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.dll
+C:\Users\Kartikeya\source\repos\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.pdb
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.dll
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.pdb
+C:\Users\Kartikeya\source\repos\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache
